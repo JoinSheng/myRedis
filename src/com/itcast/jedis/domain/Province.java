@@ -1,7 +1,7 @@
 package com.itcast.jedis.domain;
 
 /**
- * @Author: JoinCao
+ * @Author: JoinSheng
  * @CreateDate: 2020-06-06
  */
 public class Province {
