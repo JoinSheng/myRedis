@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * @Description: 连接池工具类
+ * @Description: 连接池工具类练习
  * @Author: JoinCao
  * @CreateDate: 2020-06-06
  * @UpdateUser: JoinCao
