@@ -10,7 +10,7 @@ import com.itcast.jedis.service.ProvinceService;
 import java.util.List;
 
 /**
- * @Author: JoinCao
+ * @Author: JoinSheng
  * @CreateDate: 2020-06-06
  */
 public class ProvinceServiceImpl implements ProvinceService {
